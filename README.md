@@ -12,7 +12,6 @@ links de referencia:
 4. https://mrcarkeys.com/
 
 
-
 logo:
 En public -> image
 
@@ -20,6 +19,3 @@ Paleta de colores:
 Negro = #000000
 Gris = #A0A0A0
 Blanco = #FFFFFF
-
-
-Hola Vanni sos un crack
