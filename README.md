@@ -20,5 +20,8 @@ Negro = #000000
 Gris = #A0A0A0
 Blanco = #FFFFFF
 
+link para mockups:
 
-Vanii entendiste  ?
+https://whimsical.com/ich-landing-VRjabA47qUm2NwovpwNGeF
+
+
